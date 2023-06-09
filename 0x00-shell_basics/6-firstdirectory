@@ -1,4 +1,8 @@
 #!/bin/bash
+<<<<<<< HEAD
 mkdir /tmp/my_first_directory
 
 r/
+=======
+mkdir /tmp/my_first_directory/
+>>>>>>> 9a21b783f3671f440ee48f06404e00db9197332a
